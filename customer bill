@@ -1,0 +1,4 @@
+price 1+ price 2
+sum=price 1+price 2
+print sum  
+  
