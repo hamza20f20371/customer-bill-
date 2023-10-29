@@ -1,4 +1,5 @@
 price 1+ price 2
 sum=price 1+price 2
 print sum  
-  
+if the sum greater then 500 then give discount 
+discount 10% if sum >500 if else no discount 
