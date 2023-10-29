@@ -1,4 +1,4 @@
-price 1+ price 2
-sum=price 1+price 2
-print sum  
+price1 + price2
+sum= price1 + price2
+print(sum) 
   
